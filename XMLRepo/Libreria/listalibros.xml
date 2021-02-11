@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Libros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="listalibros.xsd">
+
+    <libro>
+        <autor>Pío Baroja</autor>
+        <fecha>1911</fecha>
+        <nombre>El árbol de la ciencia</nombre>
+    </libro>
+    <libro>
+        <autor>Miguel de Cervantes</autor>
+        <fecha>1605</fecha>
+        <nombre>Don Quijote de la Mancha</nombre>
+    </libro>
+    <libro>
+        <autor>Fernando de Rojas</autor>
+        <fecha>1499</fecha>
+        <nombre>La Celestina</nombre>
+    </libro>
+    <libro>
+        <autor>Gabriel García Márquez</autor>
+        <fecha>1981</fecha>
+        <nombre>Crónicas de una Muerte Anunciada</nombre>
+    </libro>
+    <libro>
+        <autor>Alberto Méndez</autor>
+        <fecha>2004</fecha>
+        <nombre>Los Girasoles Ciegos</nombre>
+    </libro>
+    <libro>
+        <autor>Jordi Sierra i Fabra</autor>
+        <fecha>1997</fecha>
+        <nombre>Campos de Fresas</nombre>
+    </libro>
+    <libro>
+        <autor>Federico García Lorca</autor>
+        <fecha>1945</fecha>
+        <nombre>La casa de Bernarda Alba</nombre>
+    </libro>
+    <libro>
+        <autor>William Shakespeare</autor>
+        <fecha>1597</fecha>
+        <nombre>Romeo y Julieta</nombre>
+    </libro>
+    <libro>
+        <autor>William Shakespeare</autor>
+        <fecha>1609</fecha>
+        <nombre>Hamlet</nombre>
+    </libro>
+    <libro>
+        <autor>William Shakespeare</autor>
+        <fecha>1629</fecha>
+        <nombre>Macbeth</nombre>
+    </libro>
+</Libros>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!ELEMENT Libros (libro*)>
+<!ELEMENT libro (autor, fecha, nombre)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT nombre (#PCDATA)>
